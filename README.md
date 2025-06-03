@@ -8,7 +8,7 @@ Based in Spain 🌴, I mix clean code with creativity, building user experiences
 
 ## 🧠 Currently Growing
 
-I'm an experienced **front-end developer** diving headfirst into the full stack ocean — swimming among **Node.js**, **databases**, and **RESTful APIs**. I love learning new technologies and turning abstract ideas into real-world interfaces.
+I'm a **front-end developer** diving headfirst into the full stack ocean — swimming among **Node.js**, **databases**, and **RESTful APIs**. I love learning new technologies and turning abstract ideas into real-world interfaces.
 
 ### 🔧 Tech Stack So Far
 
