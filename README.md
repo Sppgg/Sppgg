@@ -1,14 +1,14 @@
 # Hi, I'm Sara 👋
 
-### Applied AI Engineer · Software Developer
+### AI Engineer | Python & Machine Learning | Geospatial AI
 
-**Building practical AI solutions across data, software and real-world processes.**
+**Turning complex data and real-world challenges into practical technology solutions.**
 
-I'm a multidisciplinary technology professional based in Spain, working at the intersection of **artificial intelligence, software development, data and process innovation**.
+I'm a technology professional based in Spain, working across artificial intelligence, machine learning and geospatial data.
 
-My experience combines frontend development, applied AI, technical training and R&D projects involving drone imagery, GIS and remote sensing.
+Currently, I contribute to applied R&D projects at **Tecnofly**, combining Python, AI and geospatial technologies, including GIS, remote sensing and drone-derived data.
 
-I enjoy turning complex challenges into practical solutions — understanding the problem, selecting the right technologies, implementing workflows and evaluating whether they actually deliver value.
+My background also includes software development, process improvement and technical training, giving me a multidisciplinary perspective on how technology is designed, implemented and used.
 
 > **Technology with purpose. Engineering with a practical mindset.**
 
@@ -16,21 +16,21 @@ I enjoy turning complex challenges into practical solutions — understanding th
 
 ## What I Do
 
-**Artificial Intelligence & Machine Learning**
+**AI Engineering & Machine Learning**
 
-Developing and adapting Python workflows for data processing, model training and inference. Exploring how AI can support analysis, automation and decision-making in real-world environments.
+Developing and adapting Python code for data processing, model training and inference, with a focus on understanding model behavior and evaluating results.
 
 **Geospatial AI & Applied R&D**
 
-Working with drone imagery, raster and vector datasets, GIS and remote sensing. Applying data-processing and machine-learning techniques to geospatial challenges.
+Working with GIS, remote sensing, raster and vector datasets, and drone-derived information in applied research and development projects.
 
 **Software Development**
 
-Building responsive web applications with JavaScript, React and modern development tools, with an emphasis on maintainability, usability and component-based architecture.
+Building interactive web applications using JavaScript, React and modern frontend technologies, focusing on usability, maintainability and component-based architecture.
 
-**Process Innovation & AI Adoption**
+**Technology & Process Improvement**
 
-Connecting technical solutions with operational needs. Drawing on experience in process improvement, consultancy and technical training to make AI useful and accessible in professional contexts.
+Bringing experience in process analysis, technical training and AI adoption to the development of solutions that respond to real operational needs.
 
 ---
 
@@ -38,13 +38,11 @@ Connecting technical solutions with operational needs. Drawing on experience in 
 
 | Area | Technologies & Tools |
 |---|---|
-| **AI & Data** | Python · Machine Learning · Data Processing · AI-Assisted Development |
+| **AI & Data** | Python · Machine Learning · Data Processing · Model Training & Inference |
 | **Geospatial** | QGIS · GIS · Remote Sensing · Raster & Vector Data |
-| **Frontend** | JavaScript · React · Vite · HTML5 · CSS3 · Sass |
-| **Development** | Git · GitHub · REST APIs · VS Code · Postman |
-| **Design & Delivery** | Figma · UI/UX · Technical Documentation · Workflow Optimization |
-
-*My toolkit continues to evolve through hands-on development and applied projects.*
+| **Software Development** | JavaScript · React · Vite · HTML5 · CSS3 · Sass |
+| **Developer Tools** | Git · GitHub · VS Code · Postman |
+| **Design & Delivery** | Figma · UI/UX · Technical Documentation |
 
 ---
 
@@ -52,47 +50,33 @@ Connecting technical solutions with operational needs. Drawing on experience in 
 
 ### 🏡 [Real Estate MLS Platform](https://github.com/Sppgg/real-estate-mls-platform)
 
-A multi-agency real estate web application built with React, designed to provide an intuitive property discovery experience.
+A multi-agency real estate web application demonstrating my software development experience.
 
-**Highlights**
+**Key features**
 
 - Advanced property search and filtering.
 - Grid, list and interactive map views.
 - Detailed property pages, favorites and recently viewed listings.
-- Bilingual interface with English and Spanish support.
-- Responsive, component-based user interface.
-- Automated code-quality and build checks through GitHub Actions.
+- Bilingual interface in English and Spanish.
+- Responsive design and component-based architecture.
+- Automated lint and production build checks using GitHub Actions.
 
-**Stack:** React 19 · JavaScript · Vite 6 · React Router · i18next · Context API · CSS
+**Tech:** React 19 · JavaScript · Vite 6 · React Router · i18next · Context API · CSS
 
-**[Explore the project →](https://github.com/Sppgg/real-estate-mls-platform)**
-
----
-
-## Current Focus
-
-I'm particularly interested in:
-
-- **Applied AI engineering:** Building and evaluating AI-powered solutions that address practical challenges.
-- **Machine learning workflows:** Developing my work with Python, data preparation, model training and inference.
-- **Geospatial intelligence:** Exploring the intersection of AI, drone data, GIS and remote sensing.
-- **Software and process improvement:** Creating maintainable solutions that simplify complex workflows.
-
-I value technical curiosity, clear thinking and the ability to connect different disciplines.
+[**Explore the repository →**](https://github.com/Sppgg/real-estate-mls-platform)
 
 ---
 
-## How I Work
+## What Drives My Work
 
-I approach technology as a tool for solving problems, not as an end in itself.
+I believe good engineering starts with understanding the problem, not choosing the technology.
 
-My priorities are to:
+My experience across development, applied AI and technical training has shaped an approach focused on:
 
-- Understand the real need before choosing a solution.
-- Balance technical possibilities with practical constraints.
-- Build solutions that are understandable and maintainable.
-- Validate results and improve through iteration.
-- Communicate technical ideas clearly across different audiences.
+- Understanding data, systems and real operational needs.
+- Developing solutions that are practical and maintainable.
+- Evaluating results rather than relying on assumptions.
+- Connecting technical decisions with their real-world impact.
 
 **Less unnecessary complexity. More meaningful impact.**
 
@@ -100,9 +84,9 @@ My priorities are to:
 
 ## Let's Connect
 
-I'm open to connecting with people and teams working in **applied AI, software development, geospatial technology and digital innovation**.
+I'm interested in connecting with professionals and teams working in **AI Engineering, Machine Learning, Geospatial AI and applied R&D**.
 
-Explore my repositories, exchange ideas or get in touch through my GitHub profile.
+Feel free to explore my repositories or reach out to discuss projects, ideas and opportunities.
 
 ---
 
