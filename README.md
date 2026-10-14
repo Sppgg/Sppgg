@@ -1,66 +1,82 @@
-# 👩‍💻 Hey, I’m Sara!
+# Hi, I'm Sara 👋
 
-Front-end developer • Creative problem-solver • Code poet in training
+### Applied AI · Software Development · Process Innovation
 
-Based in Spain 🌴, I mix clean code with creativity, building user experiences that are not just functional, but delightful. I believe the best tech feels like magic — not because it’s complex, but because it just *works*.
+**Connecting people, processes, data and technology to build practical solutions.**
 
----
+I'm a multidisciplinary technology professional based in Spain 🇪🇸, with a background in software development, process improvement, technical training and applied R&D.
 
-## 🧠 Currently Growing
+My work focuses on understanding real-world challenges and exploring how **AI, data and software** can help solve them effectively.
 
-I'm a **front-end developer** diving headfirst into the full stack ocean — swimming among **Node.js**, **databases**, and **RESTful APIs**. I love learning new technologies and turning abstract ideas into real-world interfaces.
-
-### 🔧 Tech Stack So Far
-
-**Languages**:  
-JavaScript, HTML5, CSS3, Sass
-
-**Front-End**:  
-React, Axios, Bootstrap, Vite
-
-**Tools**:  
-Git & GitHub, Postman, Figma, VS Code
-
-**Currently Learning**:  
-Node.js, Express, MongoDB, authentication systems, API architecture
+I believe the best technology isn't necessarily the most complex — it's the technology that solves the right problem.
 
 ---
 
-## 💡 What I Love Building
+### 🔭 What I'm Working On
 
-- Interfaces that *feel right*
-- Web experiences that connect tech with humans
-- Clean, scalable components with purpose
-- Accessible, responsive layouts for all screens
+- **Applied AI & Machine Learning:** Implementing AI-driven approaches to data analysis and real-world problem-solving.
+- **Geospatial Data & Remote Sensing:** Working with drone imagery, GIS, raster and vector data, and geospatial analysis.
+- **Software Development:** Building responsive, interactive web applications using modern JavaScript and React ecosystems.
+- **Process Improvement:** Connecting operational needs with practical technology solutions.
+- **Technical Training:** Helping people understand and adopt AI tools through hands-on learning.
 
-> My goal isn’t just to write code — it’s to craft intuitive solutions that feel invisible.
+### 🛠️ Tech Stack & Tools
 
----
+| Area | Technologies & Tools |
+|---|---|
+| **Web Development** | JavaScript · React · Vite · HTML5 · CSS3 · Sass |
+| **AI & Data** | Python · Applied AI · Machine Learning · Data Analysis |
+| **Geospatial** | QGIS · GIS · Remote Sensing · Raster & Vector Data |
+| **Development Tools** | Git · GitHub · VS Code · Postman |
+| **Design & Collaboration** | Figma · UI/UX · Technical Documentation |
 
-## 🤝 Let’s Collaborate
-
-I'm open to:
-
-- Learning alongside other devs
-- Contributing to meaningful open source
-- Building useful tools and beautiful UIs
-
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sara-del-pozo/) or [email](mailto:saracodestheweb@gmail.com)
-
----
-
-## 🌊 Fun Stuff
-
-- I code better after sunset (fact).
-- Rain is my white noise.
-- I see code as both logic and art.
-- My dog sometimes reviews my pull requests 🐾
+*Always learning, experimenting and expanding my technical toolkit.*
 
 ---
 
-> “Creativity is intelligence having fun.” – Albert Einstein
+### 🚀 Featured Project
+
+#### 🏡 [Real Estate MLS Platform](https://github.com/Sppgg/real-estate-mls-platform)
+
+A React-based real estate platform designed for multi-agency property discovery.
+
+**Key features**
+- Advanced property search and filtering.
+- Grid, list and interactive map views.
+- Property details, favorites and recently viewed listings.
+- Bilingual interface (English / Spanish).
+- Responsive UI and component-based architecture.
+- Automated lint and build checks with GitHub Actions.
+
+**Built with:** React 19 · Vite 6 · React Router · i18next · Context API · CSS
+
+[**Explore the repository →**](https://github.com/Sppgg/real-estate-mls-platform)
 
 ---
 
-_Thanks for visiting! If you scrolled this far, let’s connect and build something extraordinary together._
+### 💡 How I Approach Technology
 
+I enjoy working at the intersection of technical development and real operational needs.
+
+My approach is to understand the problem first, evaluate possible solutions and build tools that are **useful, understandable and maintainable**.
+
+I'm especially interested in technologies that improve workflows, make data more actionable and help people work more effectively.
+
+**Less unnecessary complexity. More meaningful impact.**
+
+---
+
+### 🤝 Let's Connect
+
+I'm interested in connecting with professionals and teams working on:
+
+- Applied AI and technology innovation.
+- Software development and digital solutions.
+- Geospatial technologies and data-driven projects.
+- Process optimization and practical AI adoption.
+
+Feel free to explore my repositories or reach out through my GitHub profile.
+
+---
+
+*Keep learning. Build with purpose. Improve what matters.*
